@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/UnemwebDeployed/static/css/main.66ba336d.css",
+    "main.js": "/UnemwebDeployed/static/js/main.1d8ae373.js",
+    "static/js/787.dbc58d08.chunk.js": "/UnemwebDeployed/static/js/787.dbc58d08.chunk.js",
+    "static/media/sanfranfront.jpg": "/UnemwebDeployed/static/media/sanfranfront.0d5b154ea32b9dac841f.jpg",
+    "static/media/landscapePic.jpg": "/UnemwebDeployed/static/media/landscapePic.4adc251eccaccf9a1743.jpg",
+    "static/media/naturePic.jpg": "/UnemwebDeployed/static/media/naturePic.87850241377fa2134d37.jpg",
+    "static/media/robotPic.jpg": "/UnemwebDeployed/static/media/robotPic.7f8574425be244cd1f8b.jpg",
+    "index.html": "/UnemwebDeployed/index.html",
+    "main.66ba336d.css.map": "/UnemwebDeployed/static/css/main.66ba336d.css.map",
+    "main.1d8ae373.js.map": "/UnemwebDeployed/static/js/main.1d8ae373.js.map",
+    "787.dbc58d08.chunk.js.map": "/UnemwebDeployed/static/js/787.dbc58d08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66ba336d.css",
+    "static/js/main.1d8ae373.js"
+  ]
+}
