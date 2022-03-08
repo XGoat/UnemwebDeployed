@@ -1,0 +1,5 @@
+import NaturePic from './images/landscapePic.jpg'
+import RobotPic from './images/robotpic.jpg'
+import Gamingpic from './images/gamingpic.jpg'
+import unemgoalPic from './images/unemgoalPic'
+import landscapePic from './images/landscapePic'

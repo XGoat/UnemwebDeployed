@@ -1,0 +1,98 @@
+.HeaderBlock{
+    height: 100vw;
+    background-image: url(images/sanfranfront.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 100%;
+
+}
+
+.HeaderBlock_info {
+    display: flex;
+    flex-direction: column;
+    height: 360;
+
+}
+
+.HeaderBlock_infoText{
+    text-align: center;
+    flex: 1;
+}
+
+.HeaderBlock_infoText >h1 {
+    color: blue;
+    font-weight: 400;
+    font-size: 38px;
+}
+
+.HeaderBlock_infoText > h4 {
+    font-size: 38;
+    color: wheat;
+}
+
+.header {
+    align-items: center;
+    display: flex;
+    z-index: 2;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+    padding-top: 15px;
+    position:sticky;
+    top: 0;
+    bottom:0;
+    left:0 ;
+    right: 0;
+    }
+    
+    .header_logoImg{
+        display: flex;
+        object-fit: contain;
+        width: 200px;
+        margin: 20px;
+    }
+    
+    .header_links{
+        display :flex;
+        gap: 15px;
+        text-decoration: none;
+        position: sticky;
+        margin-left: 32%;
+    }
+    .header_links > a {
+        text-decoration: none;
+        font-weight: 500;
+        color: black;
+        position: sticky;
+    }
+    
+    .header_right{
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        margin-left: 30%;
+      
+    }
+    .header_right > a {
+        text-decoration: none;
+        color: black;
+        font-weight: 500;
+        gap: 10px;
+    
+    }
+    
+    .header_menu{
+        text-decoration: none;
+        display:flex;
+        align-items: center;
+        gap: 100px;
+    }
+    .header_menu > .MuiSvgIcon-root {
+        position: relative;
+        z-index: 2;
+        cursor: pointer;
+    }
+    
+    .header_link--hidden{
+        visibility: hidden;
+    }

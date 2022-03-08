@@ -1,0 +1,30 @@
+.HeaderBlock1{
+    height: 100vw;
+    background-image: url(images/landscapePic.jpg);
+    background-size: cover;
+    background-position: 100%;
+
+}
+
+.HeaderBlock_info1 {
+    display: flex;
+    flex-direction: column;
+    height: 360;
+
+}
+
+.HeaderBlock_infoText1{
+    text-align: center;
+    flex: 1;
+}
+
+.HeaderBlock_infoText1 >h1 {
+    color: blue;
+    font-weight: 400;
+    font-size: 38px;
+}
+
+.HeaderBlock_infoText1 > h4 {
+    font-size: 38;
+    color: wheat;
+}
